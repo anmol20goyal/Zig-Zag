@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 38e454fc81fe62f44986624d0c1e0488
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FreeMono
+  fontNames:
+  - FreeMono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d77c82c815bc64547ab6c417fde1795e, type: 3}
+  - {fileID: 12800000, guid: 150d4d39a92e0e44081f4bf0e87260b1, type: 3}
+  - {fileID: 12800000, guid: 85c48c8fa86515e4c8e344628fa3da4d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
